@@ -1,0 +1,6 @@
+Assests downloaded from: Kenny Pack and Asset Store:
+https://www.kenney.nl/assets/abstract-platformer
+https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-free-130131
+https://id.unity.com/en/conversations/611b52ca-9b36-4b36-9db1-d17cf98850d0003f
+
+License(CC0 1.0 Universal):https://creativecommons.org/publicdomain/zero/1.0/
