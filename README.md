@@ -3,4 +3,7 @@ Unity 2D Platformer game where the player needs to reach the destination by avoi
 
 Core Game Mechanic: Run and Jump
 
+<img src="Snippet.PNG" width="600">
+
+
 
